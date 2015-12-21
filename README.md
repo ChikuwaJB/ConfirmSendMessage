@@ -1,4 +1,3 @@
 # ConfirmSendMessage
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ko" dir="ltr">( ･ㅂ･)و ̑̑ <a href="https://t.co/pt22kmHep3">pic.twitter.com/pt22kmHep3</a></p>&mdash; Chikuwa@LINEExtender (@ChikuwaJB_blog) <a href="https://twitter.com/ChikuwaJB_blog/status/678823916605800448">December 21, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<video src="https://video.twimg.com/ext_tw_video/678823735046967297/pu/vid/360x640/kDHNghn90VP0X-jj.mp4"></video>
